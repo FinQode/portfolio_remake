@@ -1,0 +1,14 @@
+{
+    "name": "remake",
+    "version": "1.0.0",
+    "description": "Portfolio website FinQode",
+    "main": "index.js",
+    "scripts": {
+        "sass": "node-sass -w scss/ -o front/css/ --recursive"
+    },
+    "author": "Marcus P. Hacquebord",
+    "license": "MIT",
+    "dependencies": {
+        "node-sass": "^4.9.2"
+    }
+}
